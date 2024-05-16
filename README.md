@@ -25,12 +25,12 @@ The online supply company has several key goals:
 <br/><br/>
     
 ### ***Shipping Costs***:
-    - suggesting multiple strategies to reduce shipping costs.
+    - suggested multiple strategies to reduce shipping costs.
   ![Untitled (3)](https://github.com/salmaH4/E-Commerce-Analysis-with-PowerBI/assets/110805003/5fa20841-3896-41d0-95fa-f2c07116da24)
 
 <br/><br/>
 
-### ***Growth opportunities***:
+### ***Market Basket Analysis***:
     - provided specific recommendations on how the company can grow sales using cross-sell promotions
   ![Untitled (4)](https://github.com/salmaH4/E-Commerce-Analysis-with-PowerBI/assets/110805003/231cfa4e-0d55-4ccd-949e-2831f93e5d4a)
 
