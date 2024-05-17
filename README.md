@@ -41,16 +41,3 @@ The online supply company has several key goals:
 ![Untitled (5)](https://github.com/salmaH4/E-Commerce-Analysis-with-PowerBI/assets/110805003/01197e4a-4153-485a-89f9-92fe4897920e)
 
 <br/><br/>
-
-## Data Cleaning
-**In the Sales Table**:
-1. Added a vizualisation for the total rows and the count of invoices.
-   > `Total_Rows = COUNTROWS(Sales)`
-    - *However, they were not equal which needed an investigation*
-    - In Power Query, filter out any Null Values
-    - in Power Query: replace “Indoor Pet Camera (Wifi) with Indoor Pet Camera” in Sales table
-**In State Mapping Table**:
-1. In power Query: calssified the State column as state or province
-
-<br/><br/>
-
