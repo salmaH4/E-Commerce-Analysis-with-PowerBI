@@ -1,5 +1,5 @@
 # E-Commerce-Analysis-with-PowerBI
-Identified insights in the ecommerce datasets with "What-If Analysis", and "Up-Sell and Cross-Sell Strategies", data modeling to EDA, DAX functions, and report design.
+Explored an ecommerce dataset for fictitious online supply company called Whiskique, using Power Query to clean the data, while also using ***up-sell and cross-sell strategies***, along with a ***what-if analysis***, to enhance profitability, reduce shipping costs, and calculated measures and DAX functions for presenting insightful and dynamic visualizations to create Power BI dashboards and presenting actionable business solutions.”
 
 <br/><br/>
 
