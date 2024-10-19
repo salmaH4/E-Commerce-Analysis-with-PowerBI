@@ -3,7 +3,7 @@ Explored an ecommerce dataset for fictitious online supply company called Whiski
 
 <br/><br/>
 
-## Business Goals of the Supply Company:
+## Business Goals:
 The online supply company has several key goals:
 1. **Uncover insights**: The company aims to gain a deeper understanding of its overall performance and identify improvement opportunities.
 2. **Increase their Sales and Customers**:
